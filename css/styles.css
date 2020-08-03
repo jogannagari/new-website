@@ -2,7 +2,7 @@ body{
 	margin: 0px;
 	text-align: center;
 	font-family: "Merriweather",serif;
-	width:fit-content;
+	display:grid;
 }
 h1{
 	margin:auto;
